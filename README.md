@@ -1,6 +1,6 @@
 # GithubTestRepo
 
-## Fature 0
+## Feature 0
 
 
 ## Feature 1
